@@ -10,6 +10,8 @@ body {
 
 header {
     background-color: white;
+    padding-left: 20px;
+    padding-top: 10px;
     
 }
 
@@ -75,4 +77,10 @@ section{
     padding: 5px;
     border: 1px solid black;
     border-radius: 7px;    
+}
+
+h1{
+    font-size: 40px;
+    padding: 10px;
+    vertical-align: top;
 }
