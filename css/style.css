@@ -88,3 +88,7 @@ h1{
 .white-text{
     color: white;
 }
+
+.small{
+    font-size: small;
+}
